@@ -1,0 +1,63 @@
+about:
+  name: Osamah Ba Hamid
+  tagline: MSMIS Student
+  phone: "+1 (928) 373-8524"        # Optional
+  email: obahamid@arizona.edu       # Optional
+  linkedin: OsamahABaHamid              # Optional
+  links:
+    # Add any link as you like.
+    - title: OsamahABaHamid
+      url: https://www.linkedin.com/in/OsamahABaHamid
+      icon: fab fa-linkedin
+    - title: obahamid-mis
+      url: https://github.com/obahamid-mis
+      icon: fab fa-github
+
+  details: |
+    Graduate Management Information Systems student at the University of Arizona with hands-on experience in IT compliance, data governance, networking, cybersecurity, and cloud computing.
+
+    Skilled in SOX and NERC CIP compliance, audit documentation, data analytics, and applying technical solutions to business challenges.
+
+
+skills:
+  - groupName: Data & Programming
+    list:
+      - SQL - Python - R
+      - Tableau Public - Excel - Access
+
+  - groupName: Cloud & Networking
+    list:
+      - AWS - Docker - Hugo
+      - Wireshark - TCP/IP
+
+  - groupName: Compliance & Business Systems
+    list:
+      - ServiceNow - SOX Compliance
+      - NERC CIP - Audit Documentation
+
+interests:
+  - Cybersecurity
+  - IT Compliance
+  - Cloud Computing
+  - Data Analytics
+
+languages:
+  - name: Arabic
+    level: Native
+
+  - name: English
+    level: Professional
+
+  - name: German
+    level: Basic
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Global Academic Excellence Award"
+    subtitle: University of Arizona
+
+  - title: "Global Wildcat Tuition Award"
+    subtitle: University of Arizona
+
+  - title: "Dean's List Award"
+    subtitle: University of Arizona

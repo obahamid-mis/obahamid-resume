@@ -1,0 +1,44 @@
+- company: Business Data Communications & Networking (MIS 443)
+  page: 1
+  roles:
+    - role: Graduate Teaching Assistant
+      details: |
+        Grade 60+ networking and AWS labs for 30+ students, covering TCP/IP, Wireshark, and cloud services.
+        Host weekly office hours to review material, troubleshoot labs, and support student learning.
+        Provide grading, feedback, and instructional support to strengthen understanding of networking concepts.
+        Collaborate with faculty on lab demonstrations and review sessions to boost student engagement.
+      date: August 2025 - Present
+
+- company: Shamrock Foods Company
+  page: 1
+  roles:
+    - role: Data Maintenance Intern
+      details: |
+        Corrected 2,000 product items across 70 Manufacturers of Record for 27 vendors.
+        Worked on an 18-page standard operating procedure and trained three cross-functional teams on the standardized correction process.
+        Developed a Monday.com tracker and vendor documentation to improve workflows.
+        Researched RFID technology for warehouse operations and presented recommendations to leadership.
+      date: May 2026 - July 2026
+
+- company: Tucson Electric Power
+  page: 2
+  roles:
+    - role: IT Compliance Intern
+      details: |
+        Managed over 50 Level 1 significance tickets in ServiceNow, ensuring efficient resolution.
+        Assisted with implementing NERC CIP standards to enhance cybersecurity for critical infrastructure.
+        Coordinated SOX compliance initiatives to support accurate financial reporting.
+        Participated in weekly COMP team meetings addressing more than 10 compliance initiatives.
+        Helped manage Application Security Profiles and prepare audit documentation.
+      date: January 2024 - August 2024
+
+- company: Pace Technologies
+  page: 2
+  roles:
+    - role: Engineering Intern (Quality Control Technician)
+      details: |
+        Organized processes to reduce costs, improve sustainability, and maximize profitability.
+        Prepared and conducted material analysis using metallographic equipment for customers.
+        Analyzed production processes to identify machinery-related issues.
+        Addressed material and production issues by identifying root causes and developing robust, cost-effective solutions.
+      date: June 2022 - August 2022
